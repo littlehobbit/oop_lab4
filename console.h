@@ -14,11 +14,6 @@ public:
 
     // Цикличная работа
     static void run();
-
-
-
-private:
-
 };
 
 #endif //LAB4_CONSOLE_H

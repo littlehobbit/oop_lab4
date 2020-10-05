@@ -47,7 +47,7 @@ struct EmployeeOperations
     // Функциональный объект для поиска выходящих на пенсию
     struct WillRetireInYear
     {
-        explicit WillRetireInYear(unsigned short pattern, unsigned short male = 65, unsigned short female = 55);
+        explicit WillRetireInYear(unsigned short pattern, unsigned short male = 65, unsigned short female = 60);
 
         bool operator()(const Employee &a) const;
 
