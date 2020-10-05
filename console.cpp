@@ -65,7 +65,7 @@ void Console::run()
             if (iter->get_gender() == MALE)
                 v_ans2_f.erase(iter);
             else
-                iter++;s
+                iter++;
 
         v_ans2.insert(v_ans2.end(), v_ans2_f.begin(), v_ans2_f.end());
         std::sort(v_ans2.begin(), v_ans2.end(), EmployeeOperations::FioSortUp());
