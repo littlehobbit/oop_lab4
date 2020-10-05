@@ -28,9 +28,23 @@ set
 
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/console.h
 
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/emp_operations.cpp
+emp_operations.h
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/emp_operations.h
+
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/emp_operations.h
 employee.h
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/employee.h
+
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/employee.cpp
+employee.h
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/employee.h
+utility
+-
+iomanip
+-
+set
+-
 
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/employee.h
 string
@@ -53,6 +67,14 @@ employee.h
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/employee.h
 map_employees.cpp
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/map_employees.cpp
+
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/vector_employees.cpp
+vector_employees.h
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/vector_employees.h
+emp_operations.h
+/home/hobbit/CLionProjects/OOP_Labs/Lab4/emp_operations.h
+sstream
+-
 
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/vector_employees.h
 vector
