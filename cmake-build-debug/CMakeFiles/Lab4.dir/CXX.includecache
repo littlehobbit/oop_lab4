@@ -9,8 +9,6 @@
 /home/hobbit/CLionProjects/OOP_Labs/Lab4/console.cpp
 iostream
 -
-sstream
--
 fstream
 -
 console.h

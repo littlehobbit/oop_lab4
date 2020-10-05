@@ -8,7 +8,7 @@
 #include <string>
 
 // Ошибка некорректного ввода
-constexpr const char* INC_IN = "Incorrect input";
+constexpr const char *INC_IN = "Incorrect input";
 
 // Тип перечисления полов
 enum Gender

@@ -28,7 +28,7 @@ public:
 
     // Метод для поиска, принимает функциональный объект
     template<class T>
-    std::vector<Employee> find(T fo) const;
+    std::vector<Employee> find(T&& fo) const;
 
 
 private:
@@ -38,7 +38,7 @@ private:
 std::istream &operator>>(std::istream &, Vector_employees &emp);
 
 template<class T>
-std::vector<Employee> Vector_employees::find(T fo) const
+std::vector<Employee> Vector_employees::find(T&& fo) const
 {
     std::vector<Employee> retired;
 
